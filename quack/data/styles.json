@@ -1,0 +1,13 @@
+{
+    "1337": {
+        "background": "BLACK",
+        "foreground": "LIGHTRED_EX"
+    },
+    "midnight":{
+        "background": "BLACK",
+        "foreground": "MAGENTA"
+    },
+    "blue-fore": {
+        "foreground": "BLUE"
+    }
+}
