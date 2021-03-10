@@ -3,7 +3,6 @@ import os
 import sys
 import time
 import json
-import pyfiglet
 from pprint import pprint
 from threading import Thread
 from colorama import Fore, Back, Style
