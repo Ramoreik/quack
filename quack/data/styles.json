@@ -9,5 +9,14 @@
     },
     "blue-fore": {
         "foreground": "BLUE"
+    },
+    "error": {
+        "foreground": "LIGHTRED_EX"
+    },
+    "highlight": {
+        "foreground": "LIGHTBLUE_EX"
+    },
+    "warning": {
+        "foreground": "YELLOW"
     }
 }

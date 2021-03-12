@@ -67,6 +67,12 @@ def title(msg: str, style: str):
         print(__wrap(msg, "="))
 
 
+def subtitle(msg: str, style: str):
+    chars = __get_style_chars(style)
+    if chars:
+        print(__wrap(msg, "-"))
+
+
 def list_styles():
     for s in STYLES.keys():
         print(s)
